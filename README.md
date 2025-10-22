@@ -1,7 +1,7 @@
 # Multi-Objective Neural Bandits
 
 This repository contains the official implementation of our IJCAI 2025 paper:  
-**_Multi-Objective Neural Bandits with Random Scalarization_**
+[**_Multi-Objective Neural Bandits with Random Scalarization_**](https://www.ijcai.org/proceedings/2025/547)
 
 ## Overview
 
@@ -21,3 +21,11 @@ We provide code for simulating and solving multi-objective contextual bandit pro
 ## Citation
 
 If you find this work useful in your research, please consider citing:
+```
+@inproceedings{cheng2025multi,
+  title={Multi-Objective Neural Bandits with Random Scalarization},
+  author={Cheng, Ji and Xue, Bo and Lu, Chengyu and Cui, Ziqiang and Zhang, Qingfu},
+  booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI-25}},
+  year={2025},
+}
+```
